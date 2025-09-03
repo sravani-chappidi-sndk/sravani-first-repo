@@ -1,3 +1,6 @@
 [submodule "sub-module"]
 	path = sub-module
 	url = https://github.com/sravani-chappidi-sndk/sub-module.git
+[submodule "sravani-first-repo"]
+	path = sravani-first-repo
+	url = https://github.com/sravani-chappidi-sndk/practice-repo.git
